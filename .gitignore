@@ -6,4 +6,4 @@ __pycache__/
 saved_model/
 best_model.h5
 *.zip
-*.wav
+*.wavvenv/
