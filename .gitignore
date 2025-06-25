@@ -1,0 +1,6 @@
+*.h5
+*.wav
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+saved_model/
