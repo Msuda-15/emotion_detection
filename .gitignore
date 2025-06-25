@@ -7,3 +7,4 @@ saved_model/
 best_model.h5
 *.zip
 *.wavvenv/
+venv/
